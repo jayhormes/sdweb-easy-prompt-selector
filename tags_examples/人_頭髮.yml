@@ -1,81 +1,113 @@
-髪色:
-  単色:
-    黒髪: black hair
-    金髪: blonde hair
-    茶髪: brown hair
-    赤髪: red hair
-    ピンク髪: pink hair
-    青髪: blue hair
-    水色髪: aqua hair
-    緑髪: green hair
-    紫髪: purple hair
-    オレンジ髪: orange hair
-    銀髪: silver hair
-    灰髪: gray hair
-    白髪: white hair
-  複数色:
-    マルチカラー: multicolored hair
-    メッシュ: streaked hair
-    グラデーション: gradient hair
-    インナーカラー: colored inner hair
-    スプリットカラー: split-color hair
+髮色:
+  單色:
+    黑色: black hair
+    金色: blonde hair
+    棕色: brown hair
+    淺棕色: light brown hair
+    紅色: red hair
+    琥珀色: amber hair
+    粉色: pink hair
+    藍色: blue hair
+    淺藍色: light blue hair
+    天青色: cyan hair
+    藍綠色: teal hair
+    深藍色: dark blue hair
+    靛青色: indigo hair
+    水色: aqua hair
+    綠色: green hair
+    淺綠色: light green hair
+    萊姆色: lime hair
+    深綠色: dark green hair
+    紫色: purple hair
+    淺紫色: light purple hair
+    紫紅色: fuchsia hair
+    橘色: orange hair
+    銀色: silver hair
+    灰色: gray hair
+    白色: white hair
+    灰白色: platinum hair
+    黃色: yellow hair
+  多色:
+    混染: multicolored hair
+    條染: streaked hair
+    漸層染: gradient hair
+    內側漂染: colored inner hair
+    分體式染: split-color hair
 
 髪型:
-  長さ:
-    ベリーショート: very short hair
-    ショートヘア: short hair
-    ミディアムヘア: medium hair
-    ロングヘアー: long hair
-    超ロングヘアー: very long hair
-    超超ロングヘアー: absurdly long hair
+  長度-短:
+    光頭: bald
+    油頭: undercut
+    寸頭: buzz cut
+    平頭: crew cut
+    髦(頭髮往上梳): quiff
+    武士頭(頭頂一個包): topknot
+    超短髮: very short hair
+    短髮: short hair
+    鮑伯頭: bob cut
+    蘑菇頭: bowl cut
+    盤頭: hair up
+  長度-中:
+    公主切: hime cut
+    辮髮: dreadlocks
+    中等長度(及頸): medium hair
+    低雙馬尾辮: low twintails
+    披肩雙馬尾: two side up
+  長度-長:
+    長髮(及腰): long hair
+    超長髮(及地): very long hair
+    超超長髮(及地髮量增): absurdly long hair  
   種類:
-    くせ毛: messy hair
-    直毛: straight hair
-    ウェーブヘア: wavy hair
-    外ハネ: flipped hair
-    非対称: asymmetrical hair
-  ポニーテール:
-    ポニーテール: ponytail
-    ハイポニーテール: high ponytail
-    ローポニーテール: low ponytail
-    フロントポニーテール: front ponytail
-    サイドポニーテール: side ponytail
-    スプリットポニーテール: split ponytail
-    畳みポニーテール: folded ponytail
-    ショートポニーテール: short ponytail
-  ツインテール:
-    ツインテール: twintails
-    ローツインテール: low twintails
-    ショートツインテール: short twintails
-    トリプルテール: tri tails
-    クアッドテール: quad tails
-  三つ編み: braid
-  ハーフアップ: half updo
-  ワンサイドアップ: one side up
-  ツーサイドアップ: two side up
-  マルチタイヘアー: multi-tied hair
-  頭頂部結び: topknot
-  巻き毛: curly hair
-  縦ロール: drill hair
-  ツイン縦ロール: twin drills
-  リングレット: ringlets
-  弓型髪: bow-shaped hair
-  お団子頭: hair bun
-  輪っか髪: hair rings
-  ドレッドヘア: dreadlocks
+    捲髮: messy hair
+    大捲髮: curly hair
+    鑽頭捲: drill hair
+    雙鑽頭捲: twin drills
+    螺旋捲: ringlets
+    直髮: straight hair
+    波浪捲(偏長): wavy hair
+    外翻捲髮: flipped hair
+    非對稱: asymmetrical hair
+    三股辮: braid
+    半扎髮: half updo
+    側扎髮: one side up
+    雙側扎: two side up
+    多結辮髮: multi-tied hair
+    蝴蝶結髮型: bow-shaped hair
+    髮飾編髮(輪っか髪): hair rings    
+  馬尾:
+    馬尾: ponytail
+    高馬尾: high ponytail
+    低馬尾: low ponytail
+    前馬尾(馬尾在身體前): front ponytail
+    側馬尾: side ponytail
+    分岔馬尾辮: split ponytail
+    疊層馬尾辮: folded ponytail
+    短馬尾: short ponytail
+  雙馬尾:
+    雙馬尾辮: twintails
+    低雙馬尾辮: low twintails
+    短雙馬尾: short twintails
+    三馬尾辮: tri tails
+    四馬尾辮: quad tails
+  丸子頭:
+    丸子頭: hair bun
+    單丸子: single hair bun
+    側丸子: single side bun
+    雙丸子: double bun
 
-前髪:
-  パッツン: blunt bangs
-  非対称: asymmetrical bangs
-  両目隠れ:  hair over eyes
-  片目隠れ: hair over one eye
-  センター分け: parted bangs
-  センター分け(ゆるめ): swept bangs
-  目の間: hair between eyes
-  インテーク: hair intakes
-  触角: sidelocks
+瀏海:
+  露額頭: forehead
+  齊瀏海: blunt bangs
+  斜瀏海: asymmetrical bangs
+  瀏海蓋過雙眼:  hair over eyes
+  瀏海蓋過單眼: hair over one eye
+  中分: parted bangs
+  旁分: swept bangs
+  眉間: hair between eyes
+  進氣口(頭髮左右梳開上方有小縫隙): hair intakes
+  觸角(前方瀏海交叉): sidelocks
 
-他:
+特殊:
   横髪: hair flaps
-  アホ毛: ahoge
-  アンテナ: antenna hair
+  呆毛: ahoge
+  天線毛(複數呆毛): antenna hair
