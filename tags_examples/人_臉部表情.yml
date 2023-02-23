@@ -1,0 +1,102 @@
+眼睛:
+  顏色:
+    黑色: black eyes
+    白色: white eyes
+    紅色: red eyes
+    藍色: blue eyes
+    綠色: green eyes
+    紫色: purple eyes
+    銀色: silver eyes
+    金色: golden eyes
+    灰色: gray eyes
+    水色: aqua eyes
+    茶色: brown eyes
+    粉色: pink eyes
+    橘色: orange eyes
+    異色瞳: heterochromia
+  狀態:
+    半開: half-closed eyes
+    閉眼: closed eyes
+    
+耳朵:
+  精靈長耳: elf ears
+  動物耳: animal ears
+  貓耳: cat ears
+  狐狸耳: fox ears
+
+表情:
+  笑:
+    笑: smile
+    大笑(會發出聲音): laughing
+    笑(壓抑笑聲): giggling
+    悲傷的笑: sad smile
+    邪惡的笑: evil smile
+    天使般的笑: angelic smile
+    笑(強制): forced smile
+    蠱惑的な笑み: seductive smile
+  微笑(ニヤニヤ):
+    ニヤニヤ: smirk
+    得意笑: doyagao
+    露齒笑: grin
+    露齒笑(邪悪): evil grin
+    惡作劇般的笑: naughty face
+    妖豔的笑: seductive smile
+    自滿的笑: smug
+  害羞:
+    難為情: embarrassed
+    臉紅: blush
+    臉紅(強): full-face blush
+    慌張: flustered
+  睡覺:
+    想睡: sleepy
+    打哈欠: yawning
+    熟睡: sleeping
+  心不在焉:
+    思考中: thinking
+    沉思: pensive
+  輕蔑:
+    輕蔑: disdain
+    不安: kubrick stare
+    悶悶不樂: sulking
+    不開心(噘嘴): pout
+    皺眉頭: wince
+    面露怒色: grimace
+    厭惡: disgust
+  哭泣:
+    哭(眼中含淚): tearing up
+    哭(眼淚流出): tears
+    哭(大爆哭): crying
+  未整理:
+    怒り: angry
+    悲しみ: sad
+    恐怖: scared
+    真剣: serious
+    イライラ: annoyed
+    闇堕ち: dark persona
+    ドヤ顔: doyagao
+    退屈: bored
+    罪悪感: guilt
+    無感情: expressionless
+    決意: determined
+    キス顔: incoming kiss
+    失望: disappointed
+    嫉妬: envy
+    困惑: confused
+    困り眉: troubled eyebrows
+    怒り眉: v-shaped eyebrows
+  
+口:
+  唇: lip
+  開いた口: open mouth
+  閉じた口: closed mouth
+  歯: teeth
+  出っ歯: buck teeth
+  上の歯: upper teeth
+  丸い歯: round teeth
+  ギザギザ歯: clenched teeth
+  牙: fang
+  舌舐めずり: licking lips
+  舌だし: tongue out
+  長舌: long tongue
+  てへぺろ: tehepero
+  よだれ: saliva
